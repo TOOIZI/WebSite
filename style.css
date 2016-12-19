@@ -1,0 +1,23 @@
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+#menulist a {
+    border: dashed 1px black;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+
+}
+
+
+#menulist a:hover {
+    border: double 1px black;
+    background-color: #4296bf;
+    color: #f4fff3;
+}
